@@ -1,2 +1,2 @@
-# Temperature-Converter
-it is a simple website using HTML,CSS and JAVASCRIPT to convert temperature .
+# temperature-converter-Website-using-html-css-JavaScript
+![temperature-converter-Website-using-html-css-JavaScript](img/github_cover.jpeg)
